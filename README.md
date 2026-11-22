@@ -147,6 +147,4 @@ RMSE is expressed in daily bike rentals.
 Neural networks are **not recommended** based on this experiment due to the small
 sample size and limited tuning.
 
----
 
-## Repository Structure
